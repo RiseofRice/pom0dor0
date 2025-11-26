@@ -16,7 +16,7 @@ A customizable Pomodoro timer website with session tracking and notes, all store
 
 ## TODO
 
-- [ ] Set up project structure and dependencies
+- [x] Set up project structure and dependencies
 - [ ] Set up Go backend server
 - [ ] Create basic HTML/CSS layout for the timer page
 - [ ] Implement Pomodoro timer functionality
